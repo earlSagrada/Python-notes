@@ -27,3 +27,5 @@ I saw that on the BNP Paribas online test and then I searched the answer of it.
 > Now we go to the 3 roll game. If I roll a 5 or 6, I keep my roll.
 > But now, even a 4 is undesirable, because by rerolling, I'd be playing the 2 roll game, which has expected payout of 4.25.
 > So now the expected payout is 1/3*(5.5)+2/3*(4.25)=4.66
+
+https://math.stackexchange.com/questions/179534/the-expected-payoff-of-a-dice-game
